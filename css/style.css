@@ -1,0 +1,44 @@
+body {
+    background-image: url(./../images/18062b51-1ec3-4fbb-a5da-5e71cd0011d8.jpg);
+    position: absolute;
+    background-repeat: no-repeat;
+    background-size: 400px 870px;
+}
+
+.title {
+    color: white;
+}
+
+.container {
+    height: 100%;
+}
+
+.seleccion-container {
+    margin: 386px 20px 20px 69px;
+}
+
+.title {
+    text-align: center;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.btn-no {
+    position: absolute;
+    left: 220px;
+    top: 440px;
+    border: none;
+    border-radius: 8px;
+    padding: 9PX;
+}
+
+.btn-si {
+    border: none;
+    border-radius: 8px;
+    padding: 14PX;
+    left: 290px;
+
+}
